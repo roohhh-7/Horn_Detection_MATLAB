@@ -3,16 +3,6 @@
 ## 📌 Overview  
 This project detects horn sounds from audio recordings using **Digital Signal Processing (DSP)** techniques in MATLAB.  
 
-## 📁 Folder Structure 
-
-Horn-Detection/ │── Audio/ │ ├── horn/ # Contains horn sound samples
-│ ├── background/ # Contains background noise samples
-│── code/ │ ├── horn_detection.m # Main detection script
-│ ├── preprocess_audio.m # Audio preprocessing
-│ ├── filter_audio.m # Filtering noise
-│── README.md
-│── .gitignore
-
 
 ## 🛠️ Features  
 ✔️ Reads and processes audio files.  
